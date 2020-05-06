@@ -12,7 +12,7 @@ Provide features to select multiple bullets, Score calculator, player's life fun
 
 Use  (https://github.com/mbhavsar1994/SpaceInvador.git) clone  game SpaceInvador.
 
-Project is build and run with the pre installed Visual Studio 2017
+Project is build and run with the pre installed Visual Studio 2017 and later
 
 
 ## Usage
